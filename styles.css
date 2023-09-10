@@ -9,6 +9,8 @@ table{
 th{
 	background-color:#888888;
 	color:white;
+	border:1px solid orange;
+	
 }
 td{
 	text-align:center;
